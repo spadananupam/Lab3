@@ -17,9 +17,10 @@
                      c++;
               }
               if (sum == b)
-                     cout << "That's perfect!";
+                     cout << "That's a perfect number
+";
               else
-                     cout << "Nah";
+                     cout << "Its not a perfect number";
 
 
               return 0;

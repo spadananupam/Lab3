@@ -31,7 +31,7 @@
               if (original == sum)
                      cout << "That's a strong number.";
               else
-                     cout << "That's not a strong number...";
+                     cout << "That's not a strong number";
 
 
               return 0;
